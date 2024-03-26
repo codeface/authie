@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.summary       = s.description
   s.homepage      = 'https://github.com/adamcooke/authie'
   s.licenses      = ['MIT']
-  s.version       = Authie::VERSION
+  s.version       = '4.1.3-codeface'
   s.files         = Dir.glob('{lib,db}/**/*')
   s.require_paths = ['lib']
   s.authors       = ['Adam Cooke']
